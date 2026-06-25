@@ -36,6 +36,7 @@ Her infographic contains information about her senior high school research , whi
 
 ## Media
 ![introduction video](https://github.com/yasmonungolh/GE-IT-Skills-portfolio/blob/235445853d92fafd3b11954d0618fd0134244b22/media/Monungolh_Personal%20Introduction%20Video.mp4)\
+![group video](https://drive.google.com/file/d/1vvAQv3msx0x15C2jSfny52GMl5kbzy2e/view?usp=sharing)\
 [Website Prototype](https://canva.link/nb6tgkhkra7weea)
 
 She showcased her music portfolio through the website prototype task. Here, you can find both her public and private music projects as well as sample audios that showcase the services she can offer.
