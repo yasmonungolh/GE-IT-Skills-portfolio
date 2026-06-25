@@ -1,4 +1,10 @@
 # GE-IT-Skills-portfolio
+## Folders
+>[Branding](brandingkit/), 
+[Visuals](visuals/), 
+[Docs](docs/), and
+[Media](media/)
+
 ## Professional Bio and Branding Tagline
 ```
 "Future Certified Public Accountant Singer-Songwriter"
@@ -17,15 +23,21 @@ She wanted to incorporate her favorite color, #9678B6, but also her favorite sha
 ## Visuals
 ![banner](https://github.com/yasmonungolh/GE-IT-Skills-portfolio/blob/main/visuals/Monungolh_Banner.png?raw=true)
 
-She incorporated both accounting items and music symbols to represent her tagline and ideal dream. 
+She incorporated both accounting items and music symbols to represent her tagline and ideal dream. She also also used the same color scheme, fonts styles, and Mindanaoan textile pattern to be cohesive with the introduction slides.
 
 ![square promotional post](https://github.com/yasmonungolh/GE-IT-Skills-portfolio/blob/main/visuals/Monungolh_SquarePost.png?raw=true)
+
+Ever since the pandemic, she has been interested with how Google Sheets and Miscrosoft Excel works. She made this post because someday, she wants to make her own templates and be able to sell it for passive income.
 
 ## Docs
 ![infographics](https://github.com/yasmonungolh/GE-IT-Skills-portfolio/blob/e4c583aa4af86b140f00c16d634b62c0b76cf9ff/docs/Monungolh_Infographic.png)
 
+Her infographic contains information about her senior high school research , which is about how the experience of Ateneo de Davao Grade 12 students, coming from families with a business backgrounds, on business related co-curricular activity influenced their social skills development. The result is that it does enhance their interpersonal and professional abilities.
+
 ## Media
-<!--(video, link to prototype)-->
+![prototype link](https://canva.link/nb6tgkhkra7weea)
+
+She showcased her music portfolio through the website prototype task. Here, you can find both her public and private music projects as well as sample audios that showcase the services she can offer.
 
 # AI Explorer
 ### Davao Poverty Reduction Prompt System
