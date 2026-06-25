@@ -1,9 +1,33 @@
 # GE-IT-Skills-portfolio
-![introduction slides](https://github.com/yasmonungolh/GE-IT-Skills-portfolio/blob/2d96d500ff9766c5715e80fabc8696d858bf4361/BRANDING%20KIT/MONUNGOLH.pdf)
-![yes, library](https://github.com/yasmonungolh/GE-IT-Skills-portfolio/blob/main/visuals/Monungolh_Banner.png?raw=true)
+## Professional Bio and Branding Tagline
+```
+"Future Certified Public Accountant Singer-Songwriter"
+```
+Yzabella Monungolh is an accountancy student with skills in basic bookkeeping and scenario modeling and forecasting. She was a finance member during their ABM Bazaar in senior high school, mainly focusing on admin tasks when working at the booth and advices on how to deal with product suppliers.
+
+She has over 4 years of experience in songwriting, music production, and audio mixing during the pandemic. She has publicly posted 2 beats, offered and tested audio mixing services online for free, and mixed beats together for her hiphop dance in senior high school. She has also publicly posted 1 official song with credits to songwriting, choreography, vocals, audio mixing, videography, video editing, and director for a school project.
+
+Recently, she started posting on social media in gained a total of 100 followers and over 40 thousand views in the span of 2-10 months. Her content is a mix of studying, journaling, reflections, and savings challenges.
+
+## Branding
+![introduction slides](https://github.com/yasmonungolh/GE-IT-Skills-portfolio/blob/5e0ece781d173ead71ff742ab5f3f23ae402b268/brandingkit/MONUNGOLH.pdf)
+
+She wanted to incorporate her favorite color, #9678B6, but also her favorite shade, blue. Her final color palette is somewhere in between the two: a cool purple color palette. She used the Mindanaoan textile pattern as the background pattern, squircles, and sans serif fonts for a clean yet soft look.
+
+## Visuals
+![banner](https://github.com/yasmonungolh/GE-IT-Skills-portfolio/blob/main/visuals/Monungolh_Banner.png?raw=true)
+
+She incorporated both accounting items and music symbols to represent her tagline and ideal dream. 
+
 ![square promotional post](https://github.com/yasmonungolh/GE-IT-Skills-portfolio/blob/main/visuals/Monungolh_SquarePost.png?raw=true)
+
+## Docs
 ![infographics](https://github.com/yasmonungolh/GE-IT-Skills-portfolio/blob/e4c583aa4af86b140f00c16d634b62c0b76cf9ff/docs/Monungolh_Infographic.png)
 
+## Media
+<!--(video, link to prototype)-->
+
+# AI Explorer
 ### Davao Poverty Reduction Prompt System
 
 #### 1. System Prompt Template
