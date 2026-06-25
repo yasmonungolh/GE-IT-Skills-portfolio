@@ -9,7 +9,7 @@
 ```
 "Future Certified Public Accountant Singer-Songwriter"
 ```
-Yzabella Monungolh is an accountancy student with skills in basic bookkeeping and scenario modeling and forecasting. She was a finance member during their ABM Bazaar in senior high school, mainly focusing on admin tasks when working at the booth and advices on how to deal with product suppliers.
+**_Yzabella Aliah S. Monungolh_** is an accountancy student with skills in basic bookkeeping and scenario modeling and forecasting. She was a finance member during their ABM Bazaar in senior high school, mainly focusing on admin tasks when working at the booth and advices on how to deal with product suppliers.
 
 She has over 4 years of experience in songwriting, music production, and audio mixing during the pandemic. She has publicly posted 2 beats, offered and tested audio mixing services online for free, and mixed beats together for her hiphop dance in senior high school. She has also publicly posted 1 official song with credits to songwriting, choreography, vocals, audio mixing, videography, video editing, and director for a school project.
 
