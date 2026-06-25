@@ -35,7 +35,7 @@ Ever since the pandemic, she has been interested with how Google Sheets and Misc
 Her infographic contains information about her senior high school research , which is about how the experience of Ateneo de Davao Grade 12 students, coming from families with a business backgrounds, on business related co-curricular activity influenced their social skills development. The result is that it does enhance their interpersonal and professional abilities.
 
 ## Media
-![introduction video](https://github.com/yasmonungolh/GE-IT-Skills-portfolio/blob/235445853d92fafd3b11954d0618fd0134244b22/media/Monungolh_Personal%20Introduction%20Video.mp4)
+![introduction video](https://github.com/yasmonungolh/GE-IT-Skills-portfolio/blob/235445853d92fafd3b11954d0618fd0134244b22/media/Monungolh_Personal%20Introduction%20Video.mp4)\
 ![prototype link](https://canva.link/nb6tgkhkra7weea)
 
 She showcased her music portfolio through the website prototype task. Here, you can find both her public and private music projects as well as sample audios that showcase the services she can offer.
